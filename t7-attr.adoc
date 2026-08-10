@@ -1,0 +1,16 @@
+= Attr Test
+:myattr: HELLOATTR
+
+Value is {myattr}.
+
+Sys is {sys:id}.
+
+Eval is {eval:1+1}.
+
+Counter is {counter:c1}.
+
+ifeval::[1 == 1]
+IFEVAL-TRUE-BRANCH
+endif::[]
+
+END-OF-T7

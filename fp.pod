@@ -1,0 +1,15 @@
+=pod
+
+=head1 POD Heading
+
+A paragraph with B<bold> and C<code>.
+
+=for html <mklab-pod-raw>PODRAW</mklab-pod-raw>
+
+=begin html
+
+<mklab-pod-block>PODBLOCK</mklab-pod-block>
+
+=end html
+
+=cut

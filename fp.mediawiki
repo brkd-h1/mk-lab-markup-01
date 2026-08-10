@@ -1,0 +1,13 @@
+= MediaWiki Heading =
+
+A paragraph with '''bold''' and <code>code</code>.
+
+{{#if: 1 | IFTRUE | IFFALSE }}
+
+{{#expr: 6*7 }}
+
+{{:Template:Foo}}
+
+<mklab-mw-raw>MWRAW</mklab-mw-raw>
+
+END-OF-MW

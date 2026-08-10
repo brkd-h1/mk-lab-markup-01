@@ -1,0 +1,11 @@
+= Passthrough Test
+
++++<mklab-adoc-raw>PASSOK</mklab-adoc-raw>+++
+
+pass:[<img src=x onerror="mklabxss()">]
+
+++++
+<mklab-adoc-block>BLOCKOK</mklab-adoc-block>
+++++
+
+END-OF-T8

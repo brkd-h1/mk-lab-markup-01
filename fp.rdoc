@@ -1,0 +1,9 @@
+= RDoc Heading
+
+A paragraph with *bold* and +code+.
+
+:include: /etc/hostname
+
+<mklab-rdoc-raw>RDRAW</mklab-rdoc-raw>
+
+END-OF-RDOC

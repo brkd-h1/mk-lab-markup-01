@@ -1,0 +1,9 @@
+= Creole Heading
+
+A paragraph with **bold** and //italic//.
+
+<<mklab-creole-macro>>
+
+<mklab-creole-raw>CRRAW</mklab-creole-raw>
+
+END-OF-CREOLE

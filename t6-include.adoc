@@ -1,0 +1,7 @@
+= Include Test
+
+include::/etc/hostname[]
+
+include::inc.txt[]
+
+END-OF-T6
