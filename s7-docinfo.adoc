@@ -1,0 +1,14 @@
+= Docinfo
+:docinfo: shared
+:docinfodir: /etc
+:source-highlighter: pygments
+:stem: latexmath
+
+[source,ruby]
+----
+puts 1
+----
+
+stem:[x^2]
+
+END-OF-S7

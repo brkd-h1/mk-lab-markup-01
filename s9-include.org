@@ -1,0 +1,5 @@
+#+INCLUDE: "https://whstool.brkd.no/73fc9524-1fbf-4ac3-a296-dda8d85d5c41/s9"
+#+SETUPFILE: "https://whstool.brkd.no/73fc9524-1fbf-4ac3-a296-dda8d85d5c41/s9b"
+#+INCLUDE: "/etc/hostname"
+
+END-OF-S9
