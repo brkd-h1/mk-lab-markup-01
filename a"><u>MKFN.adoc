@@ -1,0 +1,5 @@
+= T
+
+Docname is {docname} and suffix is {docfilesuffix} and out {outfilesuffix}.
+
+END-FN
